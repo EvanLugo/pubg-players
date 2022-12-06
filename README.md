@@ -1,2 +1,5 @@
 # pubg-players
-Evan Lugo
+Evan Lugo,
+Juan Pablo Suarez
+
+
